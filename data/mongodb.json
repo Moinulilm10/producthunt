@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Shure SM7B Cardioid Dynamic Microphone",
+        "price": 349,
+        "description": "The Shure SM7B is a cardioid dynamic microphone that is designed for use in a variety of settings, including live performances, podcasting, and home recording. It features a smooth, flat, wide-range frequency response and a built-in pop filter and shock mount for reduced noise and handling noise.",
+        "category": "Electronics",
+        "seller": "Shure",
+        "stock": 5,
+        "images": [
+            {
+                "public_id": "buyitnow/products/gclqht0hjco0jyy9s2bx",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601966/h6871zulakwgmpfnoot4.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/qdilqh5oizvnwfu2bkzq",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601966/h6871zulakwgmpfnoot4.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 4.5
+    },
+    {
+        "name": "AmazonBasics Desktop Mini Condenser Microphone",
+        "price": 12.99,
+        "description": "The AmazonBasics Desktop Mini Condenser Microphone is a compact and affordable option for recording vocals, instruments, and more. It features a cardioid polar pattern for improved sound isolation and a built-in stand for easy placement. Compatible with most devices with a 3.5mm jack.",
+        "category": "Electronics",
+        "seller": "AmazonBasics",
+        "stock": 1000,
+        "images": [
+            {
+                "public_id": "buyitnow/products/fqxj6dfj5r8s4oaagz0l",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/b1sopkjtgxwfrfmryxna.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/e12y4ylevohb5usvw06x",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/b1sopkjtgxwfrfmryxna.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 3.5
+    },
+    {
+        "name": "KOORUI Business Computer Monitor Display",
+        "price": 139.99,
+        "description": "The KOORUI Business Computer Monitor Display is a 27-inch LED monitor that features a 1080P resolution and a wide viewing angle. It has a sleek and slim design with a thickness of only 7mm and a frameless design. The monitor supports VESA mount and it is compatible with most computer systems.",
+        "category": "Laptops",
+        "seller": "KOORUI",
+        "stock": 1000,
+        "images": [
+            {
+                "public_id": "buyitnow/products/jpp9bg2uaywrq4kpyzlo",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696602051/upsizwqpmjx0nrtrpe5m.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/yuvap3tajtqe5wbuhlxz",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696602051/upsizwqpmjx0nrtrpe5m.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/hqu1oeutqwsxxs0vnupz",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696602051/upsizwqpmjx0nrtrpe5m.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 2.5
+    },
+    {
+        "name": "Beats Solo3 Wireless On-Ear Headphones",
+        "price": 199.95,
+        "description": "The Beats Solo3 Wireless On-Ear Headphones are a premium set of headphones that feature Bluetooth connectivity, up to 40 hours of battery life, and on-ear controls for adjusting volume and switching tracks. They have a sleek, stylish design and come in a variety of colors. They also have a built-in microphone for taking calls and use the Apple W1 chip for easy and stable connectivity with Apple devices.",
+        "category": "Headphones",
+        "seller": "Beats by Dr. Dre",
+        "stock": 500,
+        "images": [
+            {
+                "public_id": "buyitnow/products/yctoxcyf8qgre4uoobnv",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601966/ropdpcqjnqgtxwqqkrum.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/wbrj0ivayqajozzkeb51",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601966/ropdpcqjnqgtxwqqkrum.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 2
+    },
+    {
+        "name": "Remote Control Car",
+        "price": 39.99,
+        "description": "The Remote Control Car is a high-speed racing car with a sleek design and powerful motors. It comes with a remote control that allows you to drive the car forwards, backwards, left, and right. The car is built for both indoor and outdoor use and provides hours of entertainment for kids and adults alike.",
+        "category": "Toys",
+        "seller": "Speedy Toys Co.",
+        "stock": 250,
+        "images": [
+            {
+                "public_id": "buyitnow/products/remote_control_car_1",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/axgmjc5fu8c1hg8v93nq.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/remote_control_car_2",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/axgmjc5fu8c1hg8v93nq.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 4.5
+    },
+    {
+        "name": "LEGO Technic Building Kit",
+        "price": 69.99,
+        "description": "The LEGO Technic Building Kit is a complex engineering toy that allows you to build intricate models with working gears, axles, and motors. It comes with step-by-step instructions for building various vehicles and machines. This kit is designed for those who enjoy hands-on engineering challenges.",
+        "category": "Toys",
+        "seller": "LEGO Group",
+        "stock": 100,
+        "images": [
+            {
+                "public_id": "buyitnow/products/lego_technic_kit_1",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/dp1eoafgjwfgxif3jlgf.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/lego_technic_kit_2",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/dp1eoafgjwfgxif3jlgf.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 5.0
+    },
+    {
+        "name": "Wireless Ergonomic Keyboard and Mouse Set",
+        "price": 49.99,
+        "description": "The Wireless Ergonomic Keyboard and Mouse Set is designed for maximum comfort and productivity in an office environment. The keyboard features an ergonomic layout to reduce strain on your wrists and fingers, while the mouse provides smooth and precise control. Both devices connect wirelessly for a clutter-free workspace.",
+        "category": "Office",
+        "seller": "Tech Solutions Inc.",
+        "stock": 150,
+        "images": [
+            {
+                "public_id": "buyitnow/products/wireless_keyboard_mouse_1",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/yj7hmzwxdwumrb82exxf.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/wireless_keyboard_mouse_2",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/yj7hmzwxdwumrb82exxf.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 4.8
+    },
+    {
+        "name": "Adjustable Standing Desk Converter",
+        "price": 149.99,
+        "description": "The Adjustable Standing Desk Converter is a versatile addition to any office space. It allows you to easily switch between sitting and standing positions, promoting better posture and reducing the risk of prolonged sitting-related health issues. The converter features multiple height settings and a spacious work surface.",
+        "category": "Office",
+        "seller": "Workspace Innovations",
+        "stock": 80,
+        "images": [
+            {
+                "public_id": "buyitnow/products/standing_desk_converter_1",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/cwlfylxap7viyzyr8e0b.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/standing_desk_converter_2",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/cwlfylxap7viyzyr8e0b.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 4.9
+    },
+    {
+        "name": "Luxury Skincare Set",
+        "price": 129.99,
+        "description": "The Luxury Skincare Set is a premium collection of high-quality skincare products designed to rejuvenate and nourish your skin. It includes a range of cleansers, serums, moisturizers, and masks infused with natural ingredients. Pamper yourself with this indulgent skincare regimen for a radiant and youthful complexion.",
+        "category": "Beauty",
+        "seller": "Glamour Cosmetics",
+        "stock": 50,
+        "images": [
+            {
+                "public_id": "buyitnow/products/luxury_skincare_set_1",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601966/xm0lpa9bzrvalqngnm1q.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/luxury_skincare_set_2",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601966/xm0lpa9bzrvalqngnm1q.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 4.7
+    },
+    {
+        "name": "Men's Grooming Kit",
+        "price": 49.99,
+        "description": "The Men's Grooming Kit is a comprehensive set of high-quality grooming products designed specifically for men. It includes essentials such as a premium razor, shaving cream, after-shave lotion, and a compact travel case. Elevate your grooming routine with this sophisticated kit tailored for the modern man.",
+        "category": "Beauty",
+        "seller": "Gentlemen's Essentials",
+        "stock": 100,
+        "images": [
+            {
+                "public_id": "buyitnow/products/mens_grooming_kit_1",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/hgd0skati2hpoxrk5krz.jpg"
+            },
+            {
+                "public_id": "buyitnow/products/mens_grooming_kit_2",
+                "url": "https://res.cloudinary.com/dz62mu0ob/image/upload/v1696601967/hgd0skati2hpoxrk5krz.jpg"
+            }
+        ],
+        "reviews": [ ],
+        "ratings": 4.8
+    }
+]
