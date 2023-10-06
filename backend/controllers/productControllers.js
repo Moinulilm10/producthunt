@@ -3,6 +3,7 @@ import APIFilters from "../utils/APIFilters";
 import { cloudinary, uploads } from "../utils/cloudinary";
 import fs from "fs";
 import ErrorHandler from "../utils/errorHandler";
+import { NextResponse } from "next/server";
 
 export const newProduct = async (req, res, next) => {
   req.body.user = req.user._id;
@@ -43,9 +44,11 @@ export const getProduct = async (req, res, next) => {
     return next(new ErrorHandler("Product not found.", 404));
   }
 
-  res.status(200).json({
-    product,
-  });
+  // res.status(200).json({
+  //   product,
+  // });
+
+  return NextResponse.json({ products });
 };
 
 export const uploadProductImages = async (req, res, next) => {
